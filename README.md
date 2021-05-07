@@ -19,6 +19,12 @@
 * iteration: 10000
 * rampup: 0
 
+```
+MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
+2.3 GHz Quad core Intel Core i7
+32 GB 3733 MHz LPDDR4X
+```
+
 ### concurrency: 100
 
 #### deno
