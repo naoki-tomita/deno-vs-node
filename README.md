@@ -29,14 +29,14 @@ MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
 
 #### deno
 ```
-Time taken for tests      2.5 seconds
+Time taken for tests      2.4 seconds
 Total requests            10000
 Successful requests       10000
 Failed requests           0
-Requests per second       3976.40 [#/sec]
-Median time per request   8ms
-Average time per request  20ms
-Sample standard deviation 39ms
+Requests per second       4177.48 [#/sec]
+Median time per request   9ms
+Average time per request  22ms
+Sample standard deviation 43ms
 ```
 
 #### node
@@ -57,12 +57,12 @@ Sample standard deviation 42ms
 ```
 Time taken for tests      2.4 seconds
 Total requests            10000
-Successful requests       9520
-Failed requests           480
-Requests per second       4131.92 [#/sec]
-Median time per request   239ms
-Average time per request  221ms
-Sample standard deviation 170ms
+Successful requests       9582
+Failed requests           418
+Requests per second       4124.99 [#/sec]
+Median time per request   241ms
+Average time per request  229ms
+Sample standard deviation 79ms
 ```
 
 #### node

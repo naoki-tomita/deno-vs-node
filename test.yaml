@@ -1,5 +1,5 @@
 ---
-concurrency: 100
+concurrency: 1000
 iterations: 10000
 rampup: 0
 base: 'http://localhost:8000'
